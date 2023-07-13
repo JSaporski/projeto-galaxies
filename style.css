@@ -37,7 +37,7 @@ img {
   object-fit: cover;
 }
 
-h3,
+h2,
 span {
   color: var(--title);
 }
@@ -78,7 +78,7 @@ span {
   padding: 2rem;
 }
 
-.galaxy h3 {
+.galaxy h2 {
   margin-bottom: 2.4rem;
   font-size: clamp(2rem, calc(1.5vw + 1.4rem), 3.6rem);
 }
